@@ -1,4 +1,4 @@
-## Adverse Drug Reaction Classification on Twitter corpus##
+## Adverse Drug Reaction Classification on Twitter corpus
 
 Adverse Drug Reactions (ADRs) are a major concern to the public health and results in thousands of incidents of death and serious injuries to the patients. Most of these deaths and injuries are believed to be preventable if an ADR is diagnosed early enough to be acted upon it. Social media is a source where people provide personal information about every aspect of their lives, including healthcare. Therefore, social media becomes an important tool for pharmacovigilance. This project focuses on using Natural Language Processing(NLP) and Machine Learning(ML) techniques to identify ADRs from the tweets posted by the users on their Twitter accounts. A feature super-set has been created by accumulating different features sets from the Tweets to attack the problem as a Binary Classification task.
 
