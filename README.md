@@ -8,22 +8,21 @@ Adverse Drug Reactions (ADRs) are a major concern to the public health and resul
 
 * Dataset folder contains **sentiment_score_dic_with_pmi.txt** for Sentiment score with PMI.
 
-#### Dataset -
-
-* Sentiment lexicons
-   * SentiWordnet 3.0
-     article - Baccianella, S., Esuli, A., Sebastiani, F.: Sentiwordnet 3.0: An enhanced lexical resource for sentiment analysis and opinion mining. In: LREC. Volume 10. (2010) 2200-2204
-     download - http://sentiwordnet.isti.cnr.it/
+* Dataset contains following lexicon files -
+  1. Sentiment lexicons
+    * SentiWordnet 3.0
+    article - Baccianella, S., Esuli, A., Sebastiani, F.: Sentiwordnet 3.0: An enhanced lexical resource for sentiment analysis and opinion mining. In: LREC. Volume 10. (2010) 2200-2204
+    download - http://sentiwordnet.isti.cnr.it/
 
     * MPQA Subjectivity Lexicon
-     article - Wilson, T., Wiebe, J., Hoffmann, P.: Recognizing contextual polarity in phraselevel sentiment analysis. In: Proceedings of the conference on human language technology and empirical methods in natural language processing, Association for Computational Linguistics (2005) 347-354
+    article - Wilson, T., Wiebe, J., Hoffmann, P.: Recognizing contextual polarity in phraselevel sentiment analysis. In: Proceedings of the conference on human language technology and empirical methods in natural language processing, Association for Computational Linguistics (2005) 347-354
      download - https://github.com/kuitang/Markovian-Sentiment/blob/master/data/subjclueslen1-HLTEMNLP05.tff
 
-* Word vector representation
-
-  * Word2vec model
+  2. Word vector representation
+  
+    * Word2vec model
     article - Miftahutdinov Z. S., Tutubalina E. V., Tropsha A. E. Identifying disease-related expressions in reviews using conditional random fields //Komp’juternaja Lingvistika i Intellektual’nye Tehnologii. – 2017. – Т. 1. – №. 16. – С.     155-166.
-     download - https://github.com/dartrevan/ChemTextMining/tree/master/word2vec/Health_2.5mreviews.s200.w10.n5.v15.cbow.bin
+    download - https://github.com/dartrevan/ChemTextMining/tree/master/word2vec/Health_2.5mreviews.s200.w10.n5.v15.cbow.bin
 
 #### Requirements to run the code -
 * Python version - 3.6 or above
