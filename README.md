@@ -39,7 +39,7 @@ Adverse Drug Reactions (ADRs) are a major concern to the public health and resul
   * Codecs Version 1.0 or above
   
  #### Steps to run the code -
- 1. Pre-trained model **Health_2.5mreviews.s200** is used for word2Vec features. Health_2.5mreviews.s200 is required by Data.ipynb file. This is available at https://github.com/dartrevan/ChemTextMining/tree/master/word2vec/Health_2.5mreviews.s200.w10.n5.v15.cbow.bin.
+ 1. Pre-trained model **Health_2.5mreviews.s200** is used for word2Vec features. Health_2.5mreviews.s200 is required by ADR_Classification_on_Twitter_Data.ipynb file. This is available at https://github.com/dartrevan/ChemTextMining/tree/master/word2vec/Health_2.5mreviews.s200.w10.n5.v15.cbow.bin.
  2. Run ADR_Classification_on_Twitter_Data.ipynb to read the dataset and generate features for each tweet. Result for SVM and LR classifiers will generate results once feature extraction is completed. 
  
  ### IMPORTANT NOTE -
